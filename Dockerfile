@@ -1,4 +1,4 @@
-# --> BUILD
+# ----> BUILD
 FROM openjdk:8-jdk-alpine
 WORKDIR /opt
 RUN apk update
